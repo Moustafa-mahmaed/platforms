@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Influancy</string>
+<!-- <string name="facebook_app_id">1392770550873458</string> -->
+<string name="facebook_app_id">537327040428407</string>
+  <!-- <string name="fb_login_protocol_scheme">fb1392770550873458</string> -->
+  <string name="fb_login_protocol_scheme">fb537327040428407</string>
+  <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string> 
+  <!--<string name="facebook_app_id">949683278758004</string>-->
+  <!--<string name="fb_login_protocol_scheme">fb949683278758004</string>-->
+</resources>

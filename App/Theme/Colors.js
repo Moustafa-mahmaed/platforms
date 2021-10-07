@@ -1,0 +1,47 @@
+const colors = {
+  rouge:"#b11116",
+  brick:"#bf3026",
+  shockingPinkopacity: '#ff99db',
+  shockingPink: '#ff00a7',
+  cerulean: '#008acd',
+  ceruleanopacity: '#99ddff',
+lightgray:'lightgray',
+pinkishRed:"#e81b23",
+  cerise: '#e30d74',
+  ceriseopacity: '#f186b9',
+  paleOliveGreen:"#a2ce70",
+  jungleGreen: '#0b9444',
+  rouge: '#b11116',
+  brick: '#bf3026',
+  vividPurple: '#8204fb',
+  vividPurpleopacity: '#dab4fe',
+  
+profilecolor:"#e81b23",
+profilecoloropacity:"#ef5d61",
+  deepSkyBlue: '#0080ff',
+  gunmetal: '#5f6160',
+  dustyOrange: '#f0664a',
+  tomato: '#e42b2b',
+  heart: '#e0245e',
+  ice: '#afb6b3',
+  offWhite: '#f5f5f5',
+  twitter: '#33ccff',
+  facebook: '#3c5a99',
+  brownGrey: '#a2a2a2',
+  red:"red",
+  gray:"grey",
+  pinkishGrey:"#c4c4c4",
+  skyBlue: '#48c7f4',
+  purble: '#8d288f',
+  basic: {
+    white: '#fff',
+    transparentWhite: 'rgba(f, f, f, 0.5)',
+    black: '#000'
+  },
+  error: 'rgba(220, 0, 0, 1)',
+  success: '#27ae60',
+  transparent: 'rgba(0, 0, 0, 0)',
+  shadow: 'rgba(0, 0, 0, 0.16)'
+}
+
+export default colors
